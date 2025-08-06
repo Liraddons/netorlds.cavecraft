@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Bottom*/
+.Buttom h3{
+    font-family: 'Arial', sans-serif;
+}
+.Buttom h1{
+    font-family: 'Arial', sans-serif;
+}
+.Buttom a{
+    vertical-align: middle;
+    display: inline-block;
+    font-family: 'Arial', sans-serif;
+    color: #000000;
+    text-decoration: none;
+}
+.Buttom a:hover{
+    color: #ffff;
+}
+
+/*Header*/
+body{
+    background: #313131;
+    color: #ffff;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+
+
+/*Top*/
+.Logo, .Top_menu{
+    margin-right: 25px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.Logo{
+    vertical-align: middle;
+    font-family: 'Arial', sans-serif;
+    color: #ffff;
+}
+.Top_menu a:hover{
+    color: #ffff;
+}
+.Top_menu li{
+    display: inline-block;
+    margin-right: 25px;
+    vertical-align: middle;
+}
+.Top_menu a{
+    vertical-align: middle;
+    font-family: 'Arial', sans-serif;
+    color: #ffff;
+    text-decoration: none;
+}
+
